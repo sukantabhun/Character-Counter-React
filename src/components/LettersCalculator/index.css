@@ -60,7 +60,8 @@
   }
 }
 .input-container {
-  row-gap: 0px;
+  display: flex;
+  flex-direction: column;
 }
 .label {
   color: #ffffff;
